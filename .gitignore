@@ -26,6 +26,8 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+/frontend-web/node_modules/
+/frontend-web/dist/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
